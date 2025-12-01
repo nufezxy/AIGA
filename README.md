@@ -1,2 +1,2 @@
 # CGMR
-code of CGMR
+code of AIGA
